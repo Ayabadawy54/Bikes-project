@@ -20,7 +20,7 @@
         <li>Machine Learning Modeling</li>
         <li>Testing models with custom data</li>
       </ul>
-      <p>This is a brief description of my latest project. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam sit amet accumsan purus. Phasellus euismod quam eget urna fermentum tristique. Sed ut justo sapien. In hac habitasse platea dictumst.</p>
+      <p></p>
     </section>
     <section>
       <h2>Technologies Used</h2>
